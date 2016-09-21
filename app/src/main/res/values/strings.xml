@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloJNI</string>
+    <string name="action_about">About</string>
+
+    <string name="about_dialog_caption">About</string>
+    <string name="about_dialog_message">HelloJNI, version %s</string>
+    <string name="about_dialog_neutral">Close</string>
+</resources>
